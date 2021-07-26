@@ -1,0 +1,80 @@
+#content{
+    display: flex;
+    flex-direction: row; 
+    justify-content: center;
+    column-gap: 15px;
+  }
+  img{
+    height: 75px;
+    width: 75px;
+  }
+  #spider{
+    border: 2px solid rgb(155, 153, 153);
+    padding: 3px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    height: 200px;
+    width: 125px;
+    border-radius: 6px; 
+  }
+  #digi{
+    font-size: 35px;
+  }
+  #wonder{
+    border: 2px solid rgb(155, 153, 153);
+    padding: 3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 2.5cm;
+    height: 200px;
+    width: 125px;
+    border-radius: 6px;
+  }
+  #digi1{
+    font-size: 35px;
+  }
+  #captain{
+    border: 2px solid rgb(155, 153, 153);
+    padding: 3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 2.5cm;
+    height: 200px;
+    width: 125px;
+    border-radius: 6px;
+    
+  }
+  #digi2{
+    font-size: 35px;
+  }
+  #gem{
+    border: 2px solid rgb(155, 153, 153);
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 200px;
+    width: 125px;
+    border-radius: 6px;
+  }
+  #digi3{
+    font-size: 35px;
+    margin-bottom: 4px;
+  }
+  #digit{
+  margin-top: 0px;
+  font-size: 35px;
+  }
+  #default{
+    height: 15px;
+    width: 15px;
+  }
+  .footer{
+    margin-top: 375px;
+    margin-left : 80px;
+    font-size : 18px;
+  }
+  
